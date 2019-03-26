@@ -1,0 +1,7 @@
+﻿  Dungeon.cpp
+  MonkGame.cpp
+c:\users\alan\source\repos\monkgame\monkgame\monkgame.cpp(35): warning C4930: 'Dungeon generate(void)': prototyped function not called (was a variable definition intended?)
+c:\users\alan\source\repos\monkgame\monkgame\monkgame.cpp(37): warning C4930: 'Dungeon getCurrentLvl(void)': prototyped function not called (was a variable definition intended?)
+c:\users\alan\source\repos\monkgame\monkgame\monkgame.cpp(15): warning C4930: 'Dungeon dg(void)': prototyped function not called (was a variable definition intended?)
+  Generating Code...
+  MonkGame.vcxproj -> C:\Users\Alan\source\repos\MonkGame\Debug\MonkGame.exe

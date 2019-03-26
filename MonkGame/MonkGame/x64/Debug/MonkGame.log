@@ -1,0 +1,7 @@
+﻿  MonkGame.cpp
+c:\users\alan\source\repos\monkgame\monkgame\monkgame.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alan\source\repos\monkgame\monkgame\monkgame.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alan\source\repos\monkgame\monkgame\monkgame.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Monster.cpp
+  Generating Code...
+  MonkGame.vcxproj -> C:\Users\Alan\source\repos\MonkGame\x64\Debug\MonkGame.exe
